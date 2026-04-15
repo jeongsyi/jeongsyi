@@ -1,10 +1,4 @@
-<div align="center">
-
-```
-문제의 원인을 먼저 분석하고, 팀과 함께 더 나은 방법을 찾아 실행하는 개발자
-```
-
-# 안녕하세요, 정서연입니다 👋
+# 안녕하세요, 문제의 원인을 먼저 분석하고, 팀과 함께 더 나은 방법을 찾아 실행하는 개발자 정서연입니다 👋
 
 [![Gmail](https://img.shields.io/badge/seoyeoni945@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyeoni945@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
@@ -61,7 +55,6 @@
 | 다중 인스턴스 환경에서 Lost Update 발생 | Redis 분산 락으로 임계 영역 보호 | **데이터 정합성 100% 확보** |
 | 분산 환경에서 알림 누락 문제 | Redis Pub/Sub 기반 서버 간 브로드캐스팅 구현 | 알림 누락 없이 전달 |
 
-`Java 17` `Spring Boot` `Spring Security(JWT)` `JPA` `MySQL` `Redis` `AWS ECS` `React(Vite)`
 
 ---
 
@@ -75,7 +68,6 @@
 | RDS 기반 9개 테이블 조인으로 성능 저하 | 데이터 특성 분석 후 MongoDB 도입 제안·적용 | **조회 속도 약 24% 개선** |
 | 유사 관심사 중복 등록으로 데이터 일관성 저하 | Levenshtein Distance 기반 유사도 검증(80% 이상 시 제한) 도입 | 중복 감소 및 검색 정확도 향상 |
 
-`Java 17` `Spring Boot` `JPA` `PostgreSQL(RDS)` `MongoDB` `AWS ECS` `GitHub Actions`
 
 ---
 
