@@ -1,5 +1,6 @@
 <div align="center">
-# 안녕하세요. 먼저 묻고, 함께 풀고, 결과로 증명하는 개발자 정서연입니다 👋
+  
+# 먼저 묻고, 함께 풀고, 결과로 증명하는 개발자 정서연입니다 👋
 
 [![Gmail](https://img.shields.io/badge/seoyeoni945@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyeoni945@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
@@ -13,9 +14,7 @@
 > 기능 구현보다 **"이 방식이 정말 맞는가"** 를 먼저 묻습니다.
 
 문제가 생겼을 때 바로 코드를 고치기보다, 원인을 먼저 분리하고 근거를 정리해 팀원들과 논의한 뒤 방향을 정하는 방식으로 일해왔습니다.
-
-- RDS 9개 테이블 조인 구조의 성능 문제를 MongoDB 도입으로 해결 → **조회 속도 24% 개선**
-- 좋은 판단은 혼자 내리는 것이 아니라 **팀이 함께 납득하는 과정에서 완성**된다고 믿습니다
+좋은 판단은 혼자 내리는 것이 아니라 **팀이 함께 납득하는 과정에서 완성**된다고 믿습니다
 
 ---
 
