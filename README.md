@@ -1,4 +1,5 @@
-# 안녕하세요, 문제의 원인을 먼저 분석하고, 팀과 함께 더 나은 방법을 찾아 실행하는 개발자 정서연입니다 👋
+<div align="center">
+# 안녕하세요. 먼저 묻고, 함께 풀고, 결과로 증명하는 개발자 정서연입니다 👋
 
 [![Gmail](https://img.shields.io/badge/seoyeoni945@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyeoni945@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
@@ -94,8 +95,3 @@
 
 ---
 
-<div align="center">
-
-*"좋은 판단은 혼자 내리는 것이 아니라 팀이 함께 납득하는 과정에서 완성된다."*
-
-</div>
