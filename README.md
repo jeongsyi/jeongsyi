@@ -3,8 +3,6 @@
 # 먼저 묻고, 함께 풀고, 결과로 증명하는 개발자 정서연입니다 👋
 
 [![Gmail](https://img.shields.io/badge/seoyeoni945@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyeoni945@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
-
 </div>
 
 ---
